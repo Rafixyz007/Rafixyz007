@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Shakhawat Hossain</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafixyz007&label=Profile%20views&color=0e75b6&style=flat" alt="rafixyz007" /> </p>
-
 
 - 🔭 I’m currently working on **120 Day DS/ML/AI mastering challenge**
 
