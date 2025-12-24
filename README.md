@@ -8,7 +8,7 @@
 
 ---
 
-### Connect with me:
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
@@ -17,7 +17,6 @@
 ---
 
 ### Languages and Tools
-
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
@@ -36,12 +35,11 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="60" height="60"/>
 </p>
 
-
-
 ---
 
 ### GitHub Stats
 
-![Shakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafixyz007&show_icons=true&locale=en&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafixyz007&layout=compact&theme=dark)
+[![GitHub followers](https://img.shields.io/github/followers/rafixyz007?label=Followers&style=social)](https://github.com/rafixyz007)  
+[![GitHub stars](https://img.shields.io/github/stars/rafixyz007?style=social)](https://github.com/rafixyz007?tab=stars)
+[![Top Language](https://img.shields.io/github/languages/top/rafixyz007/bangladeshi-snake-identifier?color=yellow&style=for-the-badge&branch=main)](https://github.com/rafixyz007/bangladeshi-snake-identifier)
+[![Top Language](https://img.shields.io/github/languages/top/Rafixyz007/YC-scraper-viz?color=yellow&style=for-the-badge&branch=main)](https://github.com/Rafixyz007/YC-scraper-viz)
