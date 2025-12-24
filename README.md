@@ -16,28 +16,32 @@
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
-![Django](https://cdn.worldvectorlogo.com/logos/django.svg) 
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) 
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) 
-![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) 
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) 
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) 
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) 
-![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) 
-![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) 
-![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) 
-![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) 
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) 
-![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg) 
-![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="60" height="60"/>
+</p>
+
+
 
 ---
 
 ### GitHub Stats
 
-![Shakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafixyz007&show_icons=true&locale=en&theme=dark)
+![Shakhawat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafixyz007&show_icons=true&locale=en&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafixyz007&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafixyz007&layout=compact&theme=dark)
